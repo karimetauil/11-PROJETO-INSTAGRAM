@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: -------------------------;
 }
 
 
@@ -79,4 +78,48 @@ button{
     text-align: center;
     cursor: pointer;
     font-size: 12px;
+}
+
+
+.container-cadastro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid #dbdbdb;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.paragrafo-conta{
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
+.link-cadastro{
+    color: #0095f6;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+
+.paragrafo-app{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+} 
+
+
+.container-app{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+.logo-app{
+    width: 150px;
 }
