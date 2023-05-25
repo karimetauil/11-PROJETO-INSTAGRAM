@@ -1,6 +1,8 @@
 <h1 align="center"> Projeto Instagram </h1>
 
-<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
+<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack 
+<a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> 
+</h4>
 
   <br>
 
@@ -37,13 +39,13 @@ O Projeto Instagram consiste no desenvolvimento da página inicial de login do I
  
 ## 🚩Funcionalidades
 
--  O Projeto simula a página inicial de login do Instagram com poucos detalhes a menos, mas mostrando também, como em seu original, a animação que acontece na tela do celular, a imagem que se destaca no site.
+-  O Projeto simula a página inicial de login do Instagram com poucos detalhes, mas mostrando também, como em seu original, a animação que acontece na tela do celular, a imagem que se destaca no site.
 
   <br>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iy6s4aZebD1RwoyiOQdYAo/Netflix-DIG-(Community)?type=design&node-id=0-1&t=uiylD7RyKtWwInl3-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.instagram.com/). 
 
   <br>
 
