@@ -37,8 +37,7 @@ O Projeto Instagram consiste no desenvolvimento da página inicial de login do I
  
 ## 🚩Funcionalidades
 
-- 
-- 
+-  O Projeto simula a página inicial de login do Instagram com poucos detalhes a menos, mas mostrando também, como em seu original, a animação que acontece na tela do celular, a imagem que se destaca no site.
 
   <br>
 
