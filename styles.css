@@ -21,8 +21,21 @@ body {
 }
 
 
+.container-imagens{
+    position: relative;
+}
+
+
 .img-celular {
     width: 450px;
+}
+
+
+.imagem-celular{
+    height: 520px;
+    position: absolute;
+    left: 153px;
+    top: 26px;
 }
 
 
