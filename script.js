@@ -1,11 +1,16 @@
+
 let imagem = document.getElementById("troca-imagem")
 
-    imagem.style.opacity = 0
-
-        function trocaImagem(){
-            console.log("TO DENTRO DA FUNÇÃO")
+        function trocaImagem() {
+            if (imagem.style.opacity == 0) {
+            imagem.style.opacity = 1
+            }
+            else {
+                imagem.style.opacity = 0
+            }
+        }
 
 
   setInterval(() => {
-    
-  }, interval);
+    trocaImagem()
+  }, 4000);
